@@ -17,6 +17,6 @@
 ### 提示：
    ![image](https://user-images.githubusercontent.com/34049856/153550966-716a1c1b-e22f-4a72-a68c-d43d06a62f6a.png)
    
-   *Prefab* : 仅打包Prefab资源
-    *Scene* : 仅打包Scene资源
-     *Both* : 打包Prefab和Scene资源
+   *Prefab* : 仅打包Prefab资源  
+    *Scene* : 仅打包Scene资源  
+     *Both* : 打包Prefab和Scene资源  
