@@ -4,7 +4,7 @@
    下载 “**AssetBundlesPacker.unitypackage**” ，并Import到Unity；
    
 ### 步骤二：
-   选择需要打包的**Prefab或Scene文件（可同时选择）**，在Project面板右键选择“**OpenAssetBundlePackWindow**”；
+   选择需要打包的**Prefab或Scene文件（可同时选择）**，在**Project**面板右键选择“**OpenAssetBundlePackWindow**”；
    
    ![image](https://user-images.githubusercontent.com/34049856/153550803-c23304d7-dbdf-4ec9-b69f-9e057df4ed4e.png)
 
