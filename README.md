@@ -11,7 +11,8 @@
 ### 步骤三：
    根据窗口内的提示操作即可；
    
-   ![image](https://user-images.githubusercontent.com/34049856/153550617-495ee2a6-a279-4dfd-942e-f3260828560d.png)
+   ![image](https://user-images.githubusercontent.com/34049856/153550617-495ee2a6-a279-4dfd-942e-f3260828560d.png)![image](https://user-images.githubusercontent.com/34049856/153554278-c75efcc8-a206-46c4-8fdc-29a257a0bacf.png)
+
 
 ### 提示：
    ![image](https://user-images.githubusercontent.com/34049856/153550966-716a1c1b-e22f-4a72-a68c-d43d06a62f6a.png)
