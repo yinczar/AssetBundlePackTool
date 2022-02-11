@@ -9,7 +9,7 @@
    ![image](https://user-images.githubusercontent.com/34049856/153550803-c23304d7-dbdf-4ec9-b69f-9e057df4ed4e.png)
 
 ### 步骤三：
-   根据窗口内的提示操作即可；
+   根据窗口内的提示操作即可；**(输入 -后缀名- 后需要按回车键确定)**
    
    ![image](https://user-images.githubusercontent.com/34049856/153550617-495ee2a6-a279-4dfd-942e-f3260828560d.png)![image](https://user-images.githubusercontent.com/34049856/153554278-c75efcc8-a206-46c4-8fdc-29a257a0bacf.png)
 
